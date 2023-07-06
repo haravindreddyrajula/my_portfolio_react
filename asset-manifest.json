@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my_portfolio_react/static/css/main.51b84131.css",
+    "main.js": "/my_portfolio_react/static/js/main.348e74ef.js",
+    "static/media/suitedited.png": "/my_portfolio_react/static/media/suitedited.6dd1fa49bd7784b94c7f.png",
+    "static/media/Haravind Resume.pdf": "/my_portfolio_react/static/media/Haravind Resume.9980e973de253860b92d.pdf",
+    "static/media/Murari.jpg": "/my_portfolio_react/static/media/Murari.e0597df1bed023724924.jpg",
+    "index.html": "/my_portfolio_react/index.html",
+    "main.51b84131.css.map": "/my_portfolio_react/static/css/main.51b84131.css.map",
+    "main.348e74ef.js.map": "/my_portfolio_react/static/js/main.348e74ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51b84131.css",
+    "static/js/main.348e74ef.js"
+  ]
+}
