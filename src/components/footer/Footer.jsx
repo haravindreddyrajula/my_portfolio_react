@@ -17,7 +17,7 @@ const Footer = () => {
         <li><a href='#contact'>Contact</a></li>
       </ul>
       <div className="footer_socials">
-        <a href="https://www.linkedin.com/in/haravind-reddy-rajula-0423aa170/"><FaLinkedin /></a>
+        <a href="https://www.linkedin.com/in/haravind-r-73619029a/"><FaLinkedin /></a>
         {/* <a href="https://angel.co/u/somdotta-sarkar"><FaAngellist /></a> */}
         {/* <a href="https://twitter.com/somdotta_sarkar"><FaTwitter /></a> */}
         <a href="https://github.com/haravindreddyrajula"><FaGithub /></a>        
