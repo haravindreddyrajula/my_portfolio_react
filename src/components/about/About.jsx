@@ -24,7 +24,7 @@ const About = () => {
             <article className="about_card">
               <FaAward className="about_icon" />
               <h5>Experience</h5>
-              <small>2+ Years</small>
+              <small>5+ Years</small>
             </article>
 
             <article className="about_card">
@@ -40,7 +40,7 @@ const About = () => {
             </article>
           </div>
 
-          <p>With a Master's Degree in Computer Science, I have spent 2+ years refining my skills in full-stack application development, including 2 years at KPIT (a product-based company) and internships at "Walmart Global Tech."</p>
+          <p>With a Master's Degree in Computer Science, I have spent 5+ years refining my skills in full-stack application development, at KPIT (a product-based company) and internships at "Walmart Global Tech."</p>
           <p>I'm open to Full-stack(remote/onsite) opportunities</p>
 
           <CTA/>
