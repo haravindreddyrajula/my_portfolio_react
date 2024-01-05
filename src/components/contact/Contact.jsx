@@ -34,7 +34,7 @@ const Contact = () => {
             <FaLinkedin className='contact_option-icon'/>
             <h4>LinkedIn</h4>
             <h5>Haravind Rajula</h5>
-            <a href='https://www.linkedin.com/in/haravind-reddy-rajula-0423aa170/' target="_blank" rel="noreferrer">Send a message</a>
+            <a href='https://www.linkedin.com/in/haravind-r-73619029a/' target="_blank" rel="noreferrer">Send a message</a>
           </article>
           {/* <article className='contact_option'>
             <FaAngellist className='contact_option-icon'/>
